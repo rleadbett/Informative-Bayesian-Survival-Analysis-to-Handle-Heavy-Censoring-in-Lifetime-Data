@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code to reproduce Informative Bayesian Survival
+  Analysis to Handle Heavy Censoring in Lifetime Data
+message: 'If you use this code, please cite it as below.'
+type: software
+authors:
+  - given-names: Ryan Kenneth
+    family-names: Leadbetter
+    email: ryan.leadbetter@postgrad.curtin.edu.au
+    orcid: 'https://orcid.org/0000-0002-1942-3121'
+    affiliation: Curtin University
+
