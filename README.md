@@ -1,5 +1,5 @@
 # Informative Bayesian Survival Analysis to Handle Heavy Censoring in Lifetime Data
-This repository contains the `R` code required to reproduce the small scale simulation study from the paper with the same name[leadbetter et al. 2021](). This includes all the Stan files which implement the HMC sampling routines for an objective, and two different informative prior Weibull models.
+This repository contains the `R` code required to reproduce the small scale simulation study from the paper with the same name [leadbetter et al. 2021](). This includes all the Stan files which implement the HMC sampling routines for an objective, and two different informative prior Weibull models.
 
 ## Reproducing work
 ### Run order
